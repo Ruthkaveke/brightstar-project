@@ -1,0 +1,280 @@
+ .wrapper{
+width:1000px;
+height:1290px;
+
+
+
+border-top-right-radius:50px;
+margin-left:160px;
+
+margin-bottom:10000px;
+
+}
+.wrapper{
+	color: #000000;
+}
+.top{
+width:200px;
+height:35px;
+
+margin-top:5px;
+margin-right:25px;
+}
+.header{
+width:950px;
+height:350px;
+margin-top:35px;
+
+margin-left:20px;
+}
+
+.logo{
+width:200px;
+height:300px;
+
+margin-top:;
+margin-left:5px;
+
+}
+
+.banner{
+width:700px;
+height:150px;
+
+margin-top:10px;
+margin-right:5px;
+border:1px solid red;
+margin-bottom: 3px;
+}
+
+.link{
+width:950px;
+height:60px;
+background-color:maroon;
+margin-top:60px;
+margin-left:20px;
+border:2px solid maroon;
+border-top-left-radius:20px;
+border-bottom-right-radius:20px;
+
+}
+
+.nav >li > a{
+	color: #fff;
+	margin-top:0px;
+	position:relative;
+	display:block;
+	margin:20px;
+}
+.navbar-default{
+	background-color: maroon;
+	border-radius: 20px;
+}
+.nav >li > a{
+	background-color:#ffffff;
+}
+
+body{
+	background: url(../images/old_moon.png) repeat;
+    
+}
+
+
+.content{
+height:500px;
+width:950px;
+
+margin-top:40px;
+margin-left:20px;
+
+}
+.content h1{
+
+font-weight:bold;
+
+
+}
+.content h3{
+color:white;
+font-weight:bold;
+text-decoration:underline;
+text-align:center;
+}
+
+.content h5{
+color:white;
+text-decoration:underline;
+}
+
+.side{
+background-color:maroon;
+width:250px;
+height:400px;
+margin-top:15px;
+margin-right:10px;
+border:2px solid black;
+border-radius:40px;
+}
+
+
+.intro{
+
+height:400px;
+width:580px;
+margin-top:15px;
+margin-left:10px;
+
+}
+.school{
+height:260px;
+width:650px;
+}
+.school  h3{
+color:black;
+padding-left:20px;
+}
+.school p{
+width:230px;
+}
+.intro p{
+margin-top:10px;
+color: #ffffff;
+}
+.footer{
+width:1120px;
+height:250px;
+color: #fff;
+border:2px solid black;
+border-radius:20px;
+ background: -webkit-linear-gradient(top, maroon , black); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(top, maroon, black); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(top, maroon, black); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(to top, maroon , black); /* Standard syntax */
+margin-top:60px;
+}
+.juu{
+
+	margin-bottom: 1px;
+}
+.icons {
+width:250px;
+height:50px;
+
+margin-top:10px;
+margin-right:10px;
+}
+.icons ul li{
+list-style-type:none;
+display:inline;
+}
+.icons ul li img{
+border-radius: 150px;
+	-webkit-border-radius: 150px;
+	-moz-border-radius: 150px;
+	background: url(http://link-to-your/image.jpg) no-rep
+}
+
+.quick{
+width:200px;
+height:150px;
+margin:0px;
+color: #fff;
+
+}
+.quick li>a{
+	color: #fff;
+}
+.quick{
+list-style-type:none;
+text-decoration:none;
+}
+.quick a:hover{
+color:#fff;
+
+}
+.description{
+width:400px;
+margin-top:10px;
+}
+.description ul li{
+display:inline;
+color:#fff;
+}
+.location{
+float:right;
+padding-bottom:300px;
+}
+.faq{
+float:right;
+margin-top:170px;
+}
+.faq p{
+ color:#fff;
+}
+.copyright{
+margin-top:60px;
+text-decoration:undeline;
+}
+.quick_links pull-right li>a{
+	color: #fff;
+	margin-top:0px;
+	position:relative;
+	display:block;
+	margin:20px;
+
+}
+
+.event1{
+margin-top: 10px;
+
+
+
+}
+h3{
+	color: #000000;
+}
+p{ color:#000000;font-size:12px;line-height:150%;
+
+    margin:20px 0;}
+
+ 
+.left{width:280px;float:left;} 
+.right{width:850px;float:right;   }
+
+.footerclubs{
+width:1150px;
+height:250px;
+color: #fff;
+border:2px solid black;
+border-radius:20px;
+ background: -webkit-linear-gradient(top, maroon , black); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(top, maroon, black); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(top, maroon, black); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(to top, maroon , black); /* Standard syntax */
+margin-top:60px;
+}
+#map{
+	margin-bottom: 20px;
+}
+
+#contacts{
+	margin-top: 20px;
+	
+	border-top-left-radius: 20px;
+	border-bottom-right-radius: 20px;
+		float: left;
+	width: 400px;
+	padding: 50px;
+}
+
+#mail{
+
+	margin-top: 20px;
+	
+	padding: 50px;
+	float: right;
+	width: 550px;float: right;
+}
+.intro pull-left.p{
+	color:#000000;
+}
